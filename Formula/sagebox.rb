@@ -2,8 +2,8 @@
 class Sagebox < Formula
   desc "Private secret vault for AI agents"
   homepage "https://github.com/sparktype/sagebox"
-  url "https://github.com/sparktype/sagebox/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "bb3e481d46e94399e63834d052d8c42697d4b0e44236cd108393cf2508df9ec1"
+  url "https://github.com/sparktype/sagebox/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "7f80c38909834a911bccdf919753e2d8a7535adf03cb1400a5bcbe997664be69"
   license "MIT"
 
   depends_on "rust" => :build
