@@ -4,6 +4,7 @@ class Sagebox < Formula
   homepage "https://github.com/sparktype/sagebox"
   url "https://github.com/sparktype/sagebox/archive/refs/tags/v0.0.1.tar.gz"
   sha256 "9fa020e6e4326370ba3e62ab4fae2cd14c10f473b098a35c8a86636af0f91a26"
+  license "MIT"
 
   depends_on "rust" => :build
 
