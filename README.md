@@ -5,11 +5,12 @@ Homebrew formulae by sparktype.
 ```sh
 brew install sparktype/tap/sagebox
 brew install sparktype/tap/decide
-brew install sparktype/tap/chorus
+brew install sparktype/tap/debrief
 ```
 
 | Formula | Description |
 |---------|-------------|
 | [sagebox](https://github.com/sparktype/sagebox) | Private secret vault for AI agents |
 | [decide](https://github.com/sparktype/decide) | Choice, score, and noul decisions via TypeSafe Jev or a local model |
-| [chorus](https://github.com/sparktype/chorus) | Local TTS for Codex, Claude Code, and Grok (`chorus install` after brew) |
+| [debrief](https://github.com/sparktype/debrief) | Local TTS for Codex, Claude Code, and Grok (`debrief install` after brew). Tag `v0.0.2`. |
+| [chorus](https://github.com/sparktype/chorus) | Previous TTS formula for tag `v0.0.1`. Current installs use `debrief`. |
