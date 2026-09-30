@@ -7,7 +7,6 @@ class Debrief < Formula
       ]
   sha256 "eb9a583fcca12ff517e1d6776e0929ce603a33fc10fd86f4e2ddf90b76d489c9"
 
-  depends_on xcode: :build
   depends_on arch: :arm64
   depends_on macos: :sonoma
 
