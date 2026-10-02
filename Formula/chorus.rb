@@ -4,7 +4,6 @@ class Chorus < Formula
   url "https://github.com/sparktype/chorus/archive/refs/tags/v0.0.1.tar.gz"
   sha256 "f296d7480bb9e24ba598b94fd7954f1d008ad155af69d799ccdd2b73daaf66be"
 
-  depends_on xcode: :build
   depends_on arch: :arm64
   depends_on macos: :sonoma
 
