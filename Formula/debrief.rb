@@ -1,8 +1,8 @@
 class Debrief < Formula
   desc "Local TTS for Codex, Claude Code, Grok, and Gemini CLI"
   homepage "https://github.com/sparktype/debrief"
-  url "https://github.com/sparktype/debrief/releases/download/v0.6.1/debrief-v0.6.1-arm64.tar.gz"
-  sha256 "9a7c2dde2c18fa819b01308f4659a4f482e0a24c5a34d13ff4599d866f4ab7cc"
+  url "https://github.com/sparktype/debrief/releases/download/v0.7.0/debrief-v0.7.0-arm64.tar.gz"
+  sha256 "27ff452c4c15a619acb8caa7b66fed3e1a470e4786b5250fc8030197e8d318ca"
 
   depends_on arch: :arm64
   depends_on macos: :sonoma
